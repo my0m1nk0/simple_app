@@ -1,5 +1,5 @@
-import 'package:dice_app/dice_screen.dart';
-import 'package:dice_app/style_text.dart';
+import 'package:dice_app/dice_app/dice_screen.dart';
+import 'package:dice_app/dice_app/style_text.dart';
 import 'package:flutter/material.dart';
 
 const startAlignment = Alignment.topLeft;
